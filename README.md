@@ -25,7 +25,7 @@ Contributers:
 - [ ] Fix airplane routes/trajectories and take into account in noise polution level
 - [ ] Add more markings/ make more interactive and visibly pleasing
 - [ ] Add noise polution factors  
-  - [ ]Roads/Higways
+  - [ ] Roads/Higways
   - [ ] Construction Sites
   - [ ] Shops
   - [ ] Intertainment places (malls,thriller parks, cinemas, venues) that might produce noise polution
