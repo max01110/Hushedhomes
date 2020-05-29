@@ -20,16 +20,16 @@ Contributers:
  -HTML/CSS
 - Leaflet.js
 # To-Do
-[ ] Switch maping system to Google Maps' API
- Add markers with names and distance
- Fix airplane routes/trajectories and take into account in noise polution level
- Add more markings/ make more interactive and visibly pleasing
- Add noise polution factors
- Roads/Higways
- Construction Sites
- Shops
- Intertainment places (malls,thriller parks, cinemas, venues) that might produce noise polution
- Available reports
- Add noise polution meter (1-10 or percentage?)
- Add mangoDB, user sign-in and accounts
- Add availibity for users to submit a noise report (noisy place/neighborhood...)
+- [ ] Switch maping system to Google Maps' API\
+- [ ] Add markers with names and distance
+- [ ] Fix airplane routes/trajectories and take into account in noise polution level
+- [ ] Add more markings/ make more interactive and visibly pleasing
+- [ ] Add noise polution factors  
+  - [ ]Roads/Higways
+  - [ ] Construction Sites
+  - [ ] Shops
+  - [ ] Intertainment places (malls,thriller parks, cinemas, venues) that might produce noise polution
+  - [ ] Available reports
+- [ ] Add noise polution meter (1-10 or percentage?)
+- [ ] Add mangoDB, user sign-in and accounts
+- [ ] Add availibity for users to submit a noise report (noisy place/neighborhood...)
