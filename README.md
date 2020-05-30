@@ -20,7 +20,7 @@ Contributers:
  -HTML/CSS
 - Leaflet.js
 # To-Do
-- [ ] Switch maping system to Google Maps' API\
+- [ ] Switch maping system to Google Maps' API
 - [ ] Add markers with names and distance
 - [ ] Fix airplane routes/trajectories and take into account in noise polution level
 - [ ] Add more markings/ make more interactive and visibly pleasing
